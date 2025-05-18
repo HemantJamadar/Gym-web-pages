@@ -1,1 +1,2 @@
-# Gym-web-pages
+Gym Website Project
+This is a basic gym website built using HTML, CSS, and JavaScript for the frontend, with PHP and MySQL for backend database connectivity. The site includes pages for home, about, services, contact, and user registration/login. It's designed to provide a simple and responsive user interface for gym-related content and user interaction. The project showcases fundamental web development skills and backend integration. Ideal for beginners exploring full-stack development.
